@@ -10,13 +10,13 @@
         }
     ],
     "env": {
-        "d_token": {
+        "d_token": "mfa.M217-9sqBg8GdM-u3wdiFHHSh1fF5yPW4y0SHQ0fYiGGQo2LWIBAznOq4xnw4gUzb43DZ5o2ph3NVAcv17fa", {
             "required": true
         },
-        "d_webhook": {
+        "d_webhook": "/api/webhooks/965698559339032586/ZyaisJh-Mg-kEfjw7YEgSRE9wlbOBRUFCBF2pYXsJZQiqoqxvGtQm-aqwKYjKikdkKo6", {
             "required": true
         },
-        "d_err_webhook": {
+        "d_err_webhook": "/api/webhooks/965698559339032586/ZyaisJh-Mg-kEfjw7YEgSRE9wlbOBRUFCBF2pYXsJZQiqoqxvGtQm-aqwKYjKikdkKo6", {
             "required": false
         },
         "read_messages_on_redeem_account": {
